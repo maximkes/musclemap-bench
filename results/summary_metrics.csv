@@ -1,0 +1,38 @@
+layer,method,metric,value
+meta,benchmark,device,cpu
+meta,benchmark,n_paired_sequences,319
+meta,benchmark,n_samples,617
+layer1,musclemap,MAE (raw),0.045324
+layer1,kinesis,MAE (raw),0.015919
+layer1,musclemap,MAE (DTW),0.045324
+layer1,kinesis,MAE (DTW),0.015919
+layer1,musclemap,RMSE (raw),0.065777
+layer1,kinesis,RMSE (raw),0.023700
+layer1,musclemap,RMSE (DTW),0.065777
+layer1,kinesis,RMSE (DTW),0.023700
+layer1,musclemap,Pearson-r,-0.000000
+layer1,kinesis,Pearson-r,0.000000
+layer1,musclemap,R^2,-21668.339382
+layer1,kinesis,R^2,-98673.168967
+layer1,musclemap,Onset error (frames),42.597826
+layer1,musclemap,Energy ratio,14.719041
+layer1,kinesis,Energy ratio,0.000000
+layer1,musclemap,Co-activation Frobenius,77.286271
+layer1_paired,musclemap,MAE (raw),0.033447
+layer1_paired,kinesis,MAE (raw),0.015919
+layer1_paired,musclemap,MAE (DTW),0.033447
+layer1_paired,kinesis,MAE (DTW),0.015919
+layer1_paired,musclemap,RMSE (raw),0.057042
+layer1_paired,kinesis,RMSE (raw),0.023700
+layer1_paired,musclemap,RMSE (DTW),0.057042
+layer1_paired,kinesis,RMSE (DTW),0.023700
+layer1_paired,musclemap,Pearson-r,-0.000000
+layer1_paired,kinesis,Pearson-r,0.000000
+layer1_paired,musclemap,R^2,-38090.993500
+layer1_paired,kinesis,R^2,-98673.168967
+layer1_paired,musclemap,Onset error (frames),42.285714
+layer1_paired,musclemap,Energy ratio,11.959332
+layer1_paired,kinesis,Energy ratio,0.000000
+layer2,—,status,skipped
+resources,musclemap,inference_mean_s,0.114492
+resources,kinesis,inference_mean_s,0.181424

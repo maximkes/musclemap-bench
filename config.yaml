@@ -1,0 +1,49 @@
+paths:
+  musclemap_data_repo: "../musclemap-data"
+  musclemap_model_repo: "../musclemap-model"
+  musclemap_train_config: "../musclemap-model/config/train.yaml"
+  musclemap_checkpoint: "../checkpoints/epoch_0074.pt"
+  kinesis_artifacts: "data/kinesis_artifacts"
+  results_dir: "results"
+
+test_set:
+  dataset_root: "../musclemap-data/data/motionx_activations"
+  split: "test"
+  max_samples: null
+  seed: 42
+
+layer1:
+  enabled: true
+  dtw_enabled: true
+  dtw_radius: 10
+  activation_threshold: 0.20
+  min_active_frames: 3
+  compute_coactivation: true
+  muscle_mapping_json: "data/muscle_mapping/rajagopal_kinesis_map.json"
+
+layer2:
+  enabled: false
+  hml3d_evaluator_path: "data/hml3d_evaluator"
+  hml3d_checkname: "finest.tar"
+  n_replication: 20
+  top_k: [1, 2, 3]
+  n_multimodal_gens: 3
+
+kinesis:
+  repo_path: "../Kinesis"
+  env_name: "myoLegDemo-v0"
+  max_frames: 300
+  render: false
+  max_retries: 3
+
+inference:
+  device: "cpu"
+  batch_size: 1
+
+resources:
+  musclemap_training_gpus: 1
+  musclemap_training_gpu_type: "A100-40GB"
+  musclemap_training_hours: null
+  motiongpt_training_gpus: 8
+  motiongpt_training_gpu_type: "A100-80GB"
+  motiongpt_training_hours: 72

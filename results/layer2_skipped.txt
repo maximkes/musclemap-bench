@@ -1,0 +1,1 @@
+Layer 2 (HumanML3D text-to-motion metrics) was not computed for this run. Re-run the benchmark with layer2.enabled and without --skip-layer2 once MotionGPT checkpoints and evaluator assets are available.

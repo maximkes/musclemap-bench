@@ -1,0 +1,10 @@
+---
+description: Benchmark repo rules for musclemap-bench
+alwaysApply: true
+---
+- Use pathlib, never raw string path concatenation.
+- Never hide uncertain integration behind fake implementations.
+- Replace NotImplementedError only after reading the local dependency code.
+- Keep outputs deterministic.
+- Keep JSON outputs serializable.
+- Never add print-debug spam; use concise messages only.

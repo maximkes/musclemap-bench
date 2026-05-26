@@ -1,0 +1,1 @@
+Layer 1 — per-muscle coefficient of determination (R²) on the held-out test split. Bars compare MuscleMAP text-to-activation predictions against Kinesis/MyoLeg precomputed activations on the shared Rajagopal muscle subset.

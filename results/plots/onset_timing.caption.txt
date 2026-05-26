@@ -1,0 +1,1 @@
+Layer 1 — distribution of activation onset timing errors (frames) for MuscleMAP. Onset is the first frame where activation stays above the configured threshold for at least min_active_frames consecutive frames.

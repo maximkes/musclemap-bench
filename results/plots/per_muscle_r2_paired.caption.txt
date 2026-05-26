@@ -1,0 +1,1 @@
+Layer 1 paired comparison: only sequences with successful Kinesis precompute artifacts. MuscleMAP and Kinesis are evaluated on the same clips and the same mapped leg-muscle subset.
