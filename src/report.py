@@ -178,7 +178,9 @@ def write_table_resources(results: dict[str, Any], out_path: Path) -> None:
 
     def gh(x: dict[str, Any]) -> str:
         v = x.get("training_gpu_hours")
-        return "0" if v in (None, 0) else f"{float(v):.0f}"
+        if v is None:
+            return "--"
+        return f"{float(v):.0f}"
 
     lines = [
         r"% " + caption,
@@ -188,8 +190,8 @@ def write_table_resources(results: dict[str, Any], out_path: Path) -> None:
         r"\toprule",
         r" & MuscleMAP & Kinesis & MotionGPT \\",
         r"\midrule",
-        f"Training GPU-hours & {gh(mm)} & 0 & {gh(mg)} \\",
-        f"Training GPU type & {mm.get('training_gpu_type', '--')} & -- & {mg.get('training_gpu_type', '--')} \\",
+        f"Training GPU-hours & {gh(mm)} & {gh(kin)} & {gh(mg)} \\",
+        f"Training GPU type & {mm.get('training_gpu_type', '--')} & {kin.get('training_gpu_type', '--')} & {mg.get('training_gpu_type', '--')} \\",
         f"Inference / sample & {t(mm)} & {t(kin)} & {t(mg)} \\",
         r"\bottomrule",
         r"\end{tabular}",

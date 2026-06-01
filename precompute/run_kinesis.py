@@ -5,6 +5,7 @@ import argparse
 import json
 import logging
 import os
+import sys
 from pathlib import Path
 from typing import Any
 
@@ -74,6 +75,16 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Precompute Kinesis activations")
     p.add_argument("--config", default="config.yaml")
     p.add_argument("--max-samples", type=int, default=None)
+    p.add_argument(
+        "--test-split-only",
+        action="store_true",
+        help="Only precompute unique sequences from the MuscleMAP test split (recommended).",
+    )
+    p.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Print pending sequence counts and exit without simulating.",
+    )
     return p.parse_args()
 
 
@@ -117,6 +128,13 @@ def discover_test_sequences(cfg: dict[str, Any], max_samples: int | None) -> lis
         idx = sorted(rng.choice(len(entries), size=n, replace=False).tolist())
         entries = [entries[i] for i in idx]
     return entries
+
+
+def discover_test_split_sequences(cfg: dict[str, Any], max_samples: int | None) -> list[dict[str, Any]]:
+    """Discover unique test-split sequences (torch-free; matches MuscleActivationDataset split)."""
+    from src.test_split import discover_test_split_sequence_entries
+
+    return discover_test_split_sequence_entries(cfg, bench_root=_bench_root(), max_samples=max_samples)
 
 
 def _load_smplx_motion(path: Path) -> np.ndarray:
@@ -308,6 +326,9 @@ def run_kinesis_episode(
 def main() -> None:
     """Precompute Kinesis activation artifacts for the test split."""
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
+    bench_root = _bench_root()
+    if str(bench_root) not in sys.path:
+        sys.path.insert(0, str(bench_root))
     _require_mujoco()
     args = parse_args()
     cfg = yaml.safe_load(_resolve_path(args.config).read_text(encoding="utf-8"))
@@ -316,8 +337,22 @@ def main() -> None:
     manifest_path = artifact_dir / "_manifest.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
 
-    seqs = discover_test_sequences(cfg, args.max_samples)
+    if args.test_split_only:
+        seqs = discover_test_split_sequences(cfg, args.max_samples)
+        logger.info("Test-split mode: %d unique sequences", len(seqs))
+    else:
+        seqs = discover_test_sequences(cfg, args.max_samples)
     pending = [s for s in seqs if manifest.get(s["seq_id"], {}).get("status") != "ok"]
+    if args.dry_run:
+        ok = len(seqs) - len(pending)
+        logger.info(
+            "Dry run: %d sequences requested, %d already ok, %d pending",
+            len(seqs),
+            ok,
+            len(pending),
+        )
+        return
+
     muscle_names: list[str] = []
 
     for seq in tqdm(pending, desc="Kinesis precompute"):

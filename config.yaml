@@ -2,7 +2,9 @@ paths:
   musclemap_data_repo: "../musclemap-data"
   musclemap_model_repo: "../musclemap-model"
   musclemap_train_config: "../musclemap-model/config/train.yaml"
-  musclemap_checkpoint: "../checkpoints/epoch_0074.pt"
+  musclemap_checkpoint: "../checkpoints/epoch_0019.pt"
+  checkpoints_dir: "../checkpoints"
+  curves_dir: "data/curves"
   kinesis_artifacts: "data/kinesis_artifacts"
   results_dir: "results"
 
@@ -37,13 +39,33 @@ kinesis:
   max_retries: 3
 
 inference:
-  device: "cpu"
+  device: "mps"
   batch_size: 1
+
+baselines:
+  kinesis_test_paired:
+    mae: 0.015919146405351945
+    rmse: 0.023700344206934624
+    source: "results/results.json layer1_paired (319 seq, 42 muscles)"
+  musclemap_test_paired:
+    mae: 0.014815474396168624
+    rmse: 0.02559290742822762
+    source: "results/results.json layer1_paired (319 seq, 42 muscles, epoch_0019, ref_T fix)"
+
+training_curve:
+  # DataSphere job (batch_size=2, accumulation_steps=16, ~10831 train sequences)
+  batch_size: 2
+  accumulation_steps: 16
+  train_sequences: 10831
+  steps_per_epoch: 5416
 
 resources:
   musclemap_training_gpus: 1
-  musclemap_training_gpu_type: "A100-40GB"
-  musclemap_training_hours: null
+  musclemap_training_gpu_type: "V100-16GB"
+  musclemap_training_hours: 14
+  kinesis_training_gpus: 1
+  kinesis_training_gpu_type: "A100"
+  kinesis_training_hours: 240
   motiongpt_training_gpus: 8
   motiongpt_training_gpu_type: "A100-80GB"
   motiongpt_training_hours: 72

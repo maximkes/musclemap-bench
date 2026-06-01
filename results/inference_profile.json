@@ -1,0 +1,37 @@
+{
+  "musclemap": {
+    "total_params": 337489736,
+    "trainable_params": 4655361,
+    "frozen_params": 332834375,
+    "compute": {
+      "macs": 8683659264.0,
+      "flops": 17367318528.0,
+      "gflops": 17.367318528,
+      "representative_T": 196,
+      "method": "manual_estimate"
+    }
+  },
+  "kinesis": {
+    "total_params": null,
+    "note": "Physics simulation (MyoLeg); not a neural forward pass \u2014 compare wall-clock only."
+  },
+  "paired_inference": {
+    "n_paired_windows": 319,
+    "n_paired_sequences": 288,
+    "checkpoint": "epoch_0089.pt",
+    "device": "mps",
+    "musclemap": {
+      "mean_s": 0.0648052162977704,
+      "std_s": 0.07797900587916783,
+      "median_s": 0.060614792000706075,
+      "n": 319
+    },
+    "kinesis": {
+      "mean_s": 0.18142373914420104,
+      "std_s": 0.04900183301251101,
+      "median_s": 0.1696877909998875,
+      "n": 319,
+      "note": "Kinesis timings from precompute manifest (MyoLeg simulation wall-clock)."
+    }
+  }
+}

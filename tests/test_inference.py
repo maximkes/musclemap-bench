@@ -59,7 +59,7 @@ def test_run_musclemap_sigmoid_and_trim():
     assert np.all(sample.activations > 0.5)
     assert sample.motion is not None
     assert sample.motion.shape == (3, 263)
-    assert sample.meta["pred_T"] == 4
+    assert sample.meta["pred_T"] == 3
     assert getattr(model.backbone, "_musclemap_bench_eval_patch", False)
 
 

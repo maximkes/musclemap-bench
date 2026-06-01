@@ -29307,5 +29307,1400 @@
     "status": "ok",
     "file": "Simultaneously_standing_and_Roll_up_your_sleeves_clip1.npy",
     "timing_s": 0.2758773329996984
+  },
+  "Simultaneously_standing_and_Traffic_Direction_2_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_standing_and_Traffic_Direction_2_clip1.npy",
+    "timing_s": 1.914694082999631
+  },
+  "Simultaneously_walking_and_Acting_like_a_baby_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Acting_like_a_baby_clip1.npy",
+    "timing_s": 0.2654861249975511
+  },
+  "Simultaneously_walking_and_Gestures_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Gestures_clip1.npy",
+    "timing_s": 0.2646621669991873
+  },
+  "Simultaneously_walking_and_Hat_Throwing_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Hat_Throwing_clip1.npy",
+    "timing_s": 0.27578408300178126
+  },
+  "Simultaneously_walking_and_Headache_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Headache_clip1.npy",
+    "timing_s": 0.2998825000031502
+  },
+  "Simultaneously_walking_and_Holding_the_pill_1_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Holding_the_pill_1_clip1.npy",
+    "timing_s": 0.2298148330010008
+  },
+  "Simultaneously_walking_and_Holding_the_pill_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Holding_the_pill_clip1.npy",
+    "timing_s": 0.24532491699937964
+  },
+  "Simultaneously_walking_and_Ice_Skating_1_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Ice_Skating_1_clip1.npy",
+    "timing_s": 0.15113162499983446
+  },
+  "Simultaneously_walking_and_Ice_Skating_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Ice_Skating_clip1.npy",
+    "timing_s": 0.20596158400076092
+  },
+  "Simultaneously_walking_and_Kicking_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Kicking_clip1.npy",
+    "timing_s": 0.2963732499993057
+  },
+  "Simultaneously_walking_and_Playing_handsome_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Playing_handsome_clip1.npy",
+    "timing_s": 0.21350195799823268
+  },
+  "Simultaneously_walking_and_Putting_on_socks_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Putting_on_socks_clip1.npy",
+    "timing_s": 0.057814542000414804
+  },
+  "Simultaneously_walking_and_Signing_a_contract_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Signing_a_contract_clip1.npy",
+    "timing_s": 0.28259754100145074
+  },
+  "Simultaneously_walking_and_Taking_pictures_clip1": {
+    "status": "ok",
+    "file": "Simultaneously_walking_and_Taking_pictures_clip1.npy",
+    "timing_s": 0.28577866700288723
+  },
+  "Singing_during_sitting_1_clip1": {
+    "status": "ok",
+    "file": "Singing_during_sitting_1_clip1.npy",
+    "timing_s": 0.20969133299877285
+  },
+  "Singing_during_sitting_clip1": {
+    "status": "ok",
+    "file": "Singing_during_sitting_clip1.npy",
+    "timing_s": 0.20954020800127182
+  },
+  "Singing_while_walking_clip1": {
+    "status": "ok",
+    "file": "Singing_while_walking_clip1.npy",
+    "timing_s": 0.23361945799842943
+  },
+  "Skipping_Rope_Spinning_while_walking_clip1": {
+    "status": "ok",
+    "file": "Skipping_Rope_Spinning_while_walking_clip1.npy",
+    "timing_s": 0.21902270799910184
+  },
+  "Skipping_Rope_while_sitting_1_clip1": {
+    "status": "ok",
+    "file": "Skipping_Rope_while_sitting_1_clip1.npy",
+    "timing_s": 0.21483829199860338
+  },
+  "Skipping_Rope_while_sitting_clip1": {
+    "status": "ok",
+    "file": "Skipping_Rope_while_sitting_clip1.npy",
+    "timing_s": 0.2017605420005566
+  },
+  "Sneezing_and_sitting_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Sneezing_and_sitting_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.22550708299968392
+  },
+  "Sneezing_and_sitting_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "Sneezing_and_sitting_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.1766648750017339
+  },
+  "Sneezing_and_sitting_at_the_same_time_3_clip1": {
+    "status": "ok",
+    "file": "Sneezing_and_sitting_at_the_same_time_3_clip1.npy",
+    "timing_s": 0.2258308330019645
+  },
+  "Sneezing_and_sitting_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Sneezing_and_sitting_at_the_same_time_clip1.npy",
+    "timing_s": 0.271232000002783
+  },
+  "Sneezing_and_walking_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Sneezing_and_walking_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.22217345800163457
+  },
+  "Sneezing_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Sneezing_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.29419174999929965
+  },
+  "Squat_during_standing_1_clip1": {
+    "status": "ok",
+    "file": "Squat_during_standing_1_clip1.npy",
+    "timing_s": 0.23742424999727518
+  },
+  "Squat_during_standing_clip1": {
+    "status": "ok",
+    "file": "Squat_during_standing_clip1.npy",
+    "timing_s": 0.13239624999914668
+  },
+  "Stomping_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Stomping_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.21407295799872372
+  },
+  "Supporting_Someone_during_sitting_clip1": {
+    "status": "ok",
+    "file": "Supporting_Someone_during_sitting_clip1.npy",
+    "timing_s": 0.2010427500026708
+  },
+  "Sweeping_and_sitting_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Sweeping_and_sitting_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.24292649999915739
+  },
+  "Sweeping_and_sitting_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Sweeping_and_sitting_at_the_same_time_clip1.npy",
+    "timing_s": 0.2631618330015044
+  },
+  "Take_off_your_jacket_and_walking_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Take_off_your_jacket_and_walking_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.35926608400041005
+  },
+  "Take_off_your_jacket_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Take_off_your_jacket_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.3582507920000353
+  },
+  "Take_off_your_jacket_during_standing_clip1": {
+    "status": "ok",
+    "file": "Take_off_your_jacket_during_standing_clip1.npy",
+    "timing_s": 0.24104008299764246
+  },
+  "Taking_off_the_headphones_and_walking_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Taking_off_the_headphones_and_walking_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.24352666699996917
+  },
+  "Taking_off_the_headphones_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Taking_off_the_headphones_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.237177499999234
+  },
+  "Taking_pictures_while_standing_clip1": {
+    "status": "ok",
+    "file": "Taking_pictures_while_standing_clip1.npy",
+    "timing_s": 0.2665702500016778
+  },
+  "Talking_on_the_phone_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Talking_on_the_phone_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.26558474999910686
+  },
+  "The_movement_of_crossing_the_index_fingers_of_both_hands_during_sitting_clip1": {
+    "status": "ok",
+    "file": "The_movement_of_crossing_the_index_fingers_of_both_hands_during_sitting_clip1.npy",
+    "timing_s": 0.2150623750021623
+  },
+  "Throwing_while_sitting_clip1": {
+    "status": "ok",
+    "file": "Throwing_while_sitting_clip1.npy",
+    "timing_s": 0.33339908299967647
+  },
+  "Trembling_while_sitting_1_clip1": {
+    "status": "ok",
+    "file": "Trembling_while_sitting_1_clip1.npy",
+    "timing_s": 0.2273826669988921
+  },
+  "Trembling_while_sitting_clip1": {
+    "status": "ok",
+    "file": "Trembling_while_sitting_clip1.npy",
+    "timing_s": 0.19193862499741954
+  },
+  "Twist_the_waist_and_walking_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Twist_the_waist_and_walking_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.3757074589993863
+  },
+  "Twist_the_waist_and_walking_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "Twist_the_waist_and_walking_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.21492575000229408
+  },
+  "Twist_the_waist_and_walking_at_the_same_time_3_clip1": {
+    "status": "ok",
+    "file": "Twist_the_waist_and_walking_at_the_same_time_3_clip1.npy",
+    "timing_s": 0.23009041699697264
+  },
+  "Twist_the_waist_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Twist_the_waist_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.3125089579989435
+  },
+  "Twist_your_fingers_and_sitting_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Twist_your_fingers_and_sitting_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.18550237499948707
+  },
+  "Unscrewing_bottle_caps_during_walking_1_clip1": {
+    "status": "ok",
+    "file": "Unscrewing_bottle_caps_during_walking_1_clip1.npy",
+    "timing_s": 0.1504438330011908
+  },
+  "Unscrewing_bottle_caps_during_walking_clip1": {
+    "status": "ok",
+    "file": "Unscrewing_bottle_caps_during_walking_clip1.npy",
+    "timing_s": 0.3437591660003818
+  },
+  "Waddling_while_sitting_1_clip1": {
+    "status": "ok",
+    "file": "Waddling_while_sitting_1_clip1.npy",
+    "timing_s": 0.22901508300128626
+  },
+  "Waddling_while_sitting_clip1": {
+    "status": "ok",
+    "file": "Waddling_while_sitting_clip1.npy",
+    "timing_s": 0.19466591600212269
+  },
+  "Wash_hands_during_sitting_1_clip1": {
+    "status": "ok",
+    "file": "Wash_hands_during_sitting_1_clip1.npy",
+    "timing_s": 0.2605003749995376
+  },
+  "Wash_hands_during_sitting_clip1": {
+    "status": "ok",
+    "file": "Wash_hands_during_sitting_clip1.npy",
+    "timing_s": 0.20944345899988548
+  },
+  "Washing_things_while_standing_clip1": {
+    "status": "ok",
+    "file": "Washing_things_while_standing_clip1.npy",
+    "timing_s": 0.27967837500182213
+  },
+  "Wear_gloves_and_walking_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Wear_gloves_and_walking_at_the_same_time_clip1.npy",
+    "timing_s": 0.3425418750011886
+  },
+  "Wearing_Glasses_while_walking_clip1": {
+    "status": "ok",
+    "file": "Wearing_Glasses_while_walking_clip1.npy",
+    "timing_s": 0.09580437499971595
+  },
+  "Wearing_Glasses_while_walking_clip2": {
+    "status": "ok",
+    "file": "Wearing_Glasses_while_walking_clip2.npy",
+    "timing_s": 0.2327562909995322
+  },
+  "Writing_and_standing_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "Writing_and_standing_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.2413915420002013
+  },
+  "Writing_and_standing_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "Writing_and_standing_at_the_same_time_clip1.npy",
+    "timing_s": 0.18314908299726085
+  },
+  "Writing_in_the_Air_while_walking_1_clip1": {
+    "status": "ok",
+    "file": "Writing_in_the_Air_while_walking_1_clip1.npy",
+    "timing_s": 0.2739004590002878
+  },
+  "Writing_in_the_Air_while_walking_clip1": {
+    "status": "ok",
+    "file": "Writing_in_the_Air_while_walking_clip1.npy",
+    "timing_s": 0.19157562500186032
+  },
+  "Yawning_while_standing_1_clip1": {
+    "status": "ok",
+    "file": "Yawning_while_standing_1_clip1.npy",
+    "timing_s": 0.1936083750006219
+  },
+  "Yawning_while_standing_clip1": {
+    "status": "ok",
+    "file": "Yawning_while_standing_clip1.npy",
+    "timing_s": 0.13880300000164425
+  },
+  "holding_something_in_hand_while_standing_clip1": {
+    "status": "ok",
+    "file": "holding_something_in_hand_while_standing_clip1.npy",
+    "timing_s": 0.21545454200168024
+  },
+  "laugh_while_walking_1_clip1": {
+    "status": "ok",
+    "file": "laugh_while_walking_1_clip1.npy",
+    "timing_s": 0.15747991699754493
+  },
+  "laugh_while_walking_clip1": {
+    "status": "ok",
+    "file": "laugh_while_walking_clip1.npy",
+    "timing_s": 0.19033537499853992
+  },
+  "sad_during_sitting_1_clip1": {
+    "status": "ok",
+    "file": "sad_during_sitting_1_clip1.npy",
+    "timing_s": 0.25653925000005984
+  },
+  "sad_during_sitting_clip1": {
+    "status": "ok",
+    "file": "sad_during_sitting_clip1.npy",
+    "timing_s": 0.19099204200028908
+  },
+  "sad_during_walking_clip1": {
+    "status": "ok",
+    "file": "sad_during_walking_clip1.npy",
+    "timing_s": 0.21977700000206823
+  },
+  "shrug_while_walking_clip1": {
+    "status": "ok",
+    "file": "shrug_while_walking_clip1.npy",
+    "timing_s": 0.21304295799927786
+  },
+  "sitting_and_Back_Pain_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Back_Pain_at_the_same_time_clip1.npy",
+    "timing_s": 0.22247404199879384
+  },
+  "sitting_and_Butt_Kick_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Butt_Kick_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.19038524999996298
+  },
+  "sitting_and_Butt_Kick_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Butt_Kick_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.12300570799925481
+  },
+  "sitting_and_Butt_Kick_at_the_same_time_3_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Butt_Kick_at_the_same_time_3_clip1.npy",
+    "timing_s": 0.17712933399889152
+  },
+  "sitting_and_Butt_Kick_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Butt_Kick_at_the_same_time_clip1.npy",
+    "timing_s": 0.1611496250006894
+  },
+  "sitting_and_Calling_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Calling_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.20846879199962132
+  },
+  "sitting_and_Calling_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Calling_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.318060500001593
+  },
+  "sitting_and_Calling_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Calling_at_the_same_time_clip1.npy",
+    "timing_s": 0.2160158330007107
+  },
+  "sitting_and_Eating_ice_cream_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Eating_ice_cream_at_the_same_time_clip1.npy",
+    "timing_s": 0.23559641600149916
+  },
+  "sitting_and_Exchanging_Items_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Exchanging_Items_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.15898408299835864
+  },
+  "sitting_and_Exchanging_Items_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Exchanging_Items_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.21361474999866914
+  },
+  "sitting_and_Exchanging_Items_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Exchanging_Items_at_the_same_time_clip1.npy",
+    "timing_s": 0.16587079199962318
+  },
+  "sitting_and_Hand_touches_arm_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Hand_touches_arm_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.2079770410018682
+  },
+  "sitting_and_Hand_touches_arm_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Hand_touches_arm_at_the_same_time_clip1.npy",
+    "timing_s": 0.22448904200064135
+  },
+  "sitting_and_Hand_touches_neck_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Hand_touches_neck_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.16741320900109713
+  },
+  "sitting_and_Hand_touches_neck_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Hand_touches_neck_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.21146562500143773
+  },
+  "sitting_and_Hand_touches_neck_at_the_same_time_3_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Hand_touches_neck_at_the_same_time_3_clip1.npy",
+    "timing_s": 0.19373991700194892
+  },
+  "sitting_and_Hand_touches_neck_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Hand_touches_neck_at_the_same_time_clip1.npy",
+    "timing_s": 0.25791279199984274
+  },
+  "sitting_and_Laundry_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Laundry_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.20111733300291235
+  },
+  "sitting_and_Laundry_at_the_same_time_2_clip2": {
+    "status": "ok",
+    "file": "sitting_and_Laundry_at_the_same_time_2_clip2.npy",
+    "timing_s": 0.08667737500218209
+  },
+  "sitting_and_Laundry_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Laundry_at_the_same_time_clip1.npy",
+    "timing_s": 0.31559699999706936
+  },
+  "sitting_and_Nail_cutting_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Nail_cutting_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.3670645420024812
+  },
+  "sitting_and_Nail_cutting_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Nail_cutting_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.2872836250026012
+  },
+  "sitting_and_Nail_cutting_at_the_same_time_3_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Nail_cutting_at_the_same_time_3_clip1.npy",
+    "timing_s": 0.22930066700064344
+  },
+  "sitting_and_Nail_cutting_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Nail_cutting_at_the_same_time_clip1.npy",
+    "timing_s": 0.21661374999894178
+  },
+  "sitting_and_Playing_with_a_top_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Playing_with_a_top_at_the_same_time_clip1.npy",
+    "timing_s": 0.21981758299807552
+  },
+  "sitting_and_Playing_with_mobile_phones_or_tablets_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Playing_with_mobile_phones_or_tablets_at_the_same_time_clip1.npy",
+    "timing_s": 0.36926587500056485
+  },
+  "sitting_and_Raise_your_hand_to_speak_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Raise_your_hand_to_speak_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.2203744580001512
+  },
+  "sitting_and_Raise_your_hand_to_speak_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Raise_your_hand_to_speak_at_the_same_time_clip1.npy",
+    "timing_s": 0.20258395799828577
+  },
+  "sitting_and_Snoring_while_sleeping_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Snoring_while_sleeping_at_the_same_time_clip1.npy",
+    "timing_s": 0.20975366700076847
+  },
+  "sitting_and_Trimming_Plants_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Trimming_Plants_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.2734547920008481
+  },
+  "sitting_and_Trimming_Plants_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Trimming_Plants_at_the_same_time_clip1.npy",
+    "timing_s": 0.20625412499794038
+  },
+  "sitting_and_Twist_the_waist_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Twist_the_waist_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.2029164170016884
+  },
+  "sitting_and_Twist_the_waist_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Twist_the_waist_at_the_same_time_clip1.npy",
+    "timing_s": 0.2462640419980744
+  },
+  "sitting_and_Unscrew_the_faucet_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Unscrew_the_faucet_at_the_same_time_clip1.npy",
+    "timing_s": 0.29240091599785956
+  },
+  "sitting_and_Yawning_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "sitting_and_Yawning_at_the_same_time_clip1.npy",
+    "timing_s": 0.1966584999972838
+  },
+  "sitting_during_Coin_Toss_1_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Coin_Toss_1_clip1.npy",
+    "timing_s": 0.26887891700243927
+  },
+  "sitting_during_Coin_Toss_2_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Coin_Toss_2_clip1.npy",
+    "timing_s": 0.23821270799817285
+  },
+  "sitting_during_Coin_Toss_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Coin_Toss_clip1.npy",
+    "timing_s": 0.21799595900301938
+  },
+  "sitting_during_Getting_up_1_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Getting_up_1_clip1.npy",
+    "timing_s": 0.27767291700001806
+  },
+  "sitting_during_Getting_up_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Getting_up_clip1.npy",
+    "timing_s": 0.21081558400328504
+  },
+  "sitting_during_Hand_touches_nose_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Hand_touches_nose_clip1.npy",
+    "timing_s": 0.20692341700123507
+  },
+  "sitting_during_Listen_to_music_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Listen_to_music_clip1.npy",
+    "timing_s": 0.2301036250028119
+  },
+  "sitting_during_Phone_call_gesture_1_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Phone_call_gesture_1_clip1.npy",
+    "timing_s": 0.17056087499804562
+  },
+  "sitting_during_Phone_call_gesture_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Phone_call_gesture_clip1.npy",
+    "timing_s": 0.19444141699932516
+  },
+  "sitting_during_Pointing_at_something_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Pointing_at_something_clip1.npy",
+    "timing_s": 0.19487595900136512
+  },
+  "sitting_during_Scrub_with_a_brush_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Scrub_with_a_brush_clip1.npy",
+    "timing_s": 0.2370152910007164
+  },
+  "sitting_during_Spread_your_hands_1_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Spread_your_hands_1_clip1.npy",
+    "timing_s": 0.19143920799979242
+  },
+  "sitting_during_Spread_your_hands_2_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Spread_your_hands_2_clip1.npy",
+    "timing_s": 0.1967116250016261
+  },
+  "sitting_during_Spread_your_hands_clip1": {
+    "status": "ok",
+    "file": "sitting_during_Spread_your_hands_clip1.npy",
+    "timing_s": 0.19050137500016717
+  },
+  "sitting_while_Brushing_teeth_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Brushing_teeth_clip1.npy",
+    "timing_s": 0.30064587499873596
+  },
+  "sitting_while_Clench_your_fists_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Clench_your_fists_1_clip1.npy",
+    "timing_s": 0.21658462499908637
+  },
+  "sitting_while_Clench_your_fists_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Clench_your_fists_clip1.npy",
+    "timing_s": 0.19360554099694127
+  },
+  "sitting_while_Cover_face_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Cover_face_1_clip1.npy",
+    "timing_s": 0.23151420800058986
+  },
+  "sitting_while_Cover_face_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Cover_face_clip1.npy",
+    "timing_s": 0.24536516700027278
+  },
+  "sitting_while_Driving_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Driving_1_clip1.npy",
+    "timing_s": 0.22365979100140976
+  },
+  "sitting_while_Driving_2_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Driving_2_clip1.npy",
+    "timing_s": 0.2089260419998027
+  },
+  "sitting_while_Driving_3_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Driving_3_clip1.npy",
+    "timing_s": 0.2348566660002689
+  },
+  "sitting_while_Driving_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Driving_clip1.npy",
+    "timing_s": 0.2273316659993725
+  },
+  "sitting_while_Falling_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Falling_clip1.npy",
+    "timing_s": 0.14559633299722918
+  },
+  "sitting_while_Hand_gesture_to_indicate_flight_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hand_gesture_to_indicate_flight_1_clip1.npy",
+    "timing_s": 0.2587006249996193
+  },
+  "sitting_while_Hand_gesture_to_indicate_flight_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hand_gesture_to_indicate_flight_clip1.npy",
+    "timing_s": 0.22445412500019302
+  },
+  "sitting_while_Hand_pockets_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hand_pockets_1_clip1.npy",
+    "timing_s": 0.1816573750002135
+  },
+  "sitting_while_Hand_pockets_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hand_pockets_clip1.npy",
+    "timing_s": 0.1910312919972057
+  },
+  "sitting_while_Hand_touches_neck_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hand_touches_neck_clip1.npy",
+    "timing_s": 0.2706192080004257
+  },
+  "sitting_while_Holding_the_pill_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Holding_the_pill_1_clip1.npy",
+    "timing_s": 0.19890825000038603
+  },
+  "sitting_while_Holding_the_pill_2_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Holding_the_pill_2_clip1.npy",
+    "timing_s": 0.22259420800037333
+  },
+  "sitting_while_Holding_the_pill_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Holding_the_pill_clip1.npy",
+    "timing_s": 0.30139970800155425
+  },
+  "sitting_while_Hop_on_one_foot_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hop_on_one_foot_1_clip1.npy",
+    "timing_s": 0.2299698749993695
+  },
+  "sitting_while_Hop_on_one_foot_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hop_on_one_foot_clip1.npy",
+    "timing_s": 0.11904420799692161
+  },
+  "sitting_while_Hop_with_both_feet_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hop_with_both_feet_1_clip1.npy",
+    "timing_s": 0.23983108299944433
+  },
+  "sitting_while_Hop_with_both_feet_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Hop_with_both_feet_clip1.npy",
+    "timing_s": 0.12791404199742828
+  },
+  "sitting_while_Knock_on_the_door_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Knock_on_the_door_clip1.npy",
+    "timing_s": 0.22574087500106543
+  },
+  "sitting_while_Playing_handsome_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Playing_handsome_clip1.npy",
+    "timing_s": 0.17497920900132158
+  },
+  "sitting_while_Playing_the_flute_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Playing_the_flute_clip1.npy",
+    "timing_s": 0.20764366699950187
+  },
+  "sitting_while_Salute_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Salute_1_clip1.npy",
+    "timing_s": 0.2129574999999022
+  },
+  "sitting_while_Salute_2_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Salute_2_clip1.npy",
+    "timing_s": 0.1987044169982255
+  },
+  "sitting_while_Salute_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Salute_clip1.npy",
+    "timing_s": 0.1830416660013725
+  },
+  "sitting_while_Shake_your_head_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Shake_your_head_clip1.npy",
+    "timing_s": 0.16636012500021025
+  },
+  "sitting_while_Smash_things_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Smash_things_clip1.npy",
+    "timing_s": 0.2187032090005232
+  },
+  "sitting_while_Stand_up_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Stand_up_1_clip1.npy",
+    "timing_s": 0.19415279200256919
+  },
+  "sitting_while_Stand_up_2_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Stand_up_2_clip1.npy",
+    "timing_s": 0.18489545799820917
+  },
+  "sitting_while_Stand_up_3_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Stand_up_3_clip1.npy",
+    "timing_s": 0.24580545800199616
+  },
+  "sitting_while_Stand_up_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Stand_up_clip1.npy",
+    "timing_s": 0.13912233299924992
+  },
+  "sitting_while_Surprised_1_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Surprised_1_clip1.npy",
+    "timing_s": 0.22353829100029543
+  },
+  "sitting_while_Surprised_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Surprised_clip1.npy",
+    "timing_s": 0.21022370900027454
+  },
+  "sitting_while_Turn_the_neck_clip1": {
+    "status": "ok",
+    "file": "sitting_while_Turn_the_neck_clip1.npy",
+    "timing_s": 0.22372258300310932
+  },
+  "standing_and_Chest_Pain_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "standing_and_Chest_Pain_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.21390983399760444
+  },
+  "standing_and_Chest_Pain_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Chest_Pain_at_the_same_time_clip1.npy",
+    "timing_s": 0.1770675410007243
+  },
+  "standing_and_Coughing_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Coughing_at_the_same_time_clip1.npy",
+    "timing_s": 0.1976894170002197
+  },
+  "standing_and_Hand_touches_neck_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "standing_and_Hand_touches_neck_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.25991495800190023
+  },
+  "standing_and_Hand_touches_neck_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "standing_and_Hand_touches_neck_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.23288108299675514
+  },
+  "standing_and_Hand_touches_neck_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Hand_touches_neck_at_the_same_time_clip1.npy",
+    "timing_s": 0.1728787080028269
+  },
+  "standing_and_Hat_Throwing_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Hat_Throwing_at_the_same_time_clip1.npy",
+    "timing_s": 0.14948741700209212
+  },
+  "standing_and_Make_the_OK_gesture_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "standing_and_Make_the_OK_gesture_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.09696020800038241
+  },
+  "standing_and_Make_the_OK_gesture_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Make_the_OK_gesture_at_the_same_time_clip1.npy",
+    "timing_s": 0.18176266700174892
+  },
+  "standing_and_Merry-Go-Round_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Merry-Go-Round_at_the_same_time_clip1.npy",
+    "timing_s": 0.1859599170020374
+  },
+  "standing_and_Number_10_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "standing_and_Number_10_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.21733941700222204
+  },
+  "standing_and_Number_10_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "standing_and_Number_10_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.22043337500144844
+  },
+  "standing_and_Number_10_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Number_10_at_the_same_time_clip1.npy",
+    "timing_s": 0.2864650839983369
+  },
+  "standing_and_Number_8_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Number_8_at_the_same_time_clip1.npy",
+    "timing_s": 0.2207399170001736
+  },
+  "standing_and_Rocket_Launch_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "standing_and_Rocket_Launch_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.17275812499792664
+  },
+  "standing_and_Rocket_Launch_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "standing_and_Rocket_Launch_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.21060949999809964
+  },
+  "standing_and_Rocket_Launch_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Rocket_Launch_at_the_same_time_clip1.npy",
+    "timing_s": 0.15244891600013943
+  },
+  "standing_and_Rotating_the_ankle_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Rotating_the_ankle_at_the_same_time_clip1.npy",
+    "timing_s": 0.20858750000115833
+  },
+  "standing_and_Singing_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Singing_at_the_same_time_clip1.npy",
+    "timing_s": 0.21424079200005508
+  },
+  "standing_and_Talking_on_the_phone_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Talking_on_the_phone_at_the_same_time_clip1.npy",
+    "timing_s": 0.3527909170006751
+  },
+  "standing_and_Turn_the_neck_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "standing_and_Turn_the_neck_at_the_same_time_clip1.npy",
+    "timing_s": 0.2378585420010495
+  },
+  "standing_during_Angry_expression_clip1": {
+    "status": "ok",
+    "file": "standing_during_Angry_expression_clip1.npy",
+    "timing_s": 0.24692258299910463
+  },
+  "standing_during_Building_blocks_1_clip1": {
+    "status": "ok",
+    "file": "standing_during_Building_blocks_1_clip1.npy",
+    "timing_s": 0.20504691699898103
+  },
+  "standing_during_Building_blocks_clip1": {
+    "status": "ok",
+    "file": "standing_during_Building_blocks_clip1.npy",
+    "timing_s": 0.2875586670015764
+  },
+  "standing_during_Butt_Kick_clip1": {
+    "status": "ok",
+    "file": "standing_during_Butt_Kick_clip1.npy",
+    "timing_s": 0.09626662499795202
+  },
+  "standing_during_Hold_with_both_hands_1_clip1": {
+    "status": "ok",
+    "file": "standing_during_Hold_with_both_hands_1_clip1.npy",
+    "timing_s": 0.21123687500221422
+  },
+  "standing_during_Hold_with_both_hands_clip1": {
+    "status": "ok",
+    "file": "standing_during_Hold_with_both_hands_clip1.npy",
+    "timing_s": 0.2539523330015072
+  },
+  "standing_during_Playing_handsome_1_clip1": {
+    "status": "ok",
+    "file": "standing_during_Playing_handsome_1_clip1.npy",
+    "timing_s": 0.20823479200043948
+  },
+  "standing_during_Playing_handsome_2_clip1": {
+    "status": "ok",
+    "file": "standing_during_Playing_handsome_2_clip1.npy",
+    "timing_s": 0.22096474999852944
+  },
+  "standing_during_Playing_handsome_clip1": {
+    "status": "ok",
+    "file": "standing_during_Playing_handsome_clip1.npy",
+    "timing_s": 0.1401005410007201
+  },
+  "standing_during_Put_on_the_headphones_clip1": {
+    "status": "ok",
+    "file": "standing_during_Put_on_the_headphones_clip1.npy",
+    "timing_s": 0.23086633300044923
+  },
+  "standing_during_Riding_a_Carriage_clip1": {
+    "status": "ok",
+    "file": "standing_during_Riding_a_Carriage_clip1.npy",
+    "timing_s": 0.1893065000003844
+  },
+  "standing_during_Shaking_Hands_clip1": {
+    "status": "ok",
+    "file": "standing_during_Shaking_Hands_clip1.npy",
+    "timing_s": 0.22503179100021953
+  },
+  "standing_during_Tennis_Racket_Swing_clip1": {
+    "status": "ok",
+    "file": "standing_during_Tennis_Racket_Swing_clip1.npy",
+    "timing_s": 0.13940387500042561
+  },
+  "standing_during_Touching_the_Pocket_1_clip1": {
+    "status": "ok",
+    "file": "standing_during_Touching_the_Pocket_1_clip1.npy",
+    "timing_s": 0.20172399999864865
+  },
+  "standing_during_Touching_the_Pocket_clip1": {
+    "status": "ok",
+    "file": "standing_during_Touching_the_Pocket_clip1.npy",
+    "timing_s": 0.06633870799851138
+  },
+  "standing_while_Angry_clip1": {
+    "status": "ok",
+    "file": "standing_while_Angry_clip1.npy",
+    "timing_s": 0.2375604589979048
+  },
+  "standing_while_Apply_cream_to_hands_1_clip1": {
+    "status": "ok",
+    "file": "standing_while_Apply_cream_to_hands_1_clip1.npy",
+    "timing_s": 0.36831091699787066
+  },
+  "standing_while_Apply_cream_to_hands_clip1": {
+    "status": "ok",
+    "file": "standing_while_Apply_cream_to_hands_clip1.npy",
+    "timing_s": 0.28748295799960033
+  },
+  "standing_while_Bathing_Pets_clip1": {
+    "status": "ok",
+    "file": "standing_while_Bathing_Pets_clip1.npy",
+    "timing_s": 0.28436695900018094
+  },
+  "standing_while_Bowling_1_clip1": {
+    "status": "ok",
+    "file": "standing_while_Bowling_1_clip1.npy",
+    "timing_s": 0.2150342089989863
+  },
+  "standing_while_Bowling_clip1": {
+    "status": "ok",
+    "file": "standing_while_Bowling_clip1.npy",
+    "timing_s": 0.20523649999813642
+  },
+  "standing_while_Command_1_clip1": {
+    "status": "ok",
+    "file": "standing_while_Command_1_clip1.npy",
+    "timing_s": 0.21433720799905132
+  },
+  "standing_while_Command_2_clip1": {
+    "status": "ok",
+    "file": "standing_while_Command_2_clip1.npy",
+    "timing_s": 0.20391441700121504
+  },
+  "standing_while_Command_clip1": {
+    "status": "ok",
+    "file": "standing_while_Command_clip1.npy",
+    "timing_s": 0.21793258299658191
+  },
+  "standing_while_Eating_hot_pot_clip1": {
+    "status": "ok",
+    "file": "standing_while_Eating_hot_pot_clip1.npy",
+    "timing_s": 0.27592462500251713
+  },
+  "standing_while_Fist_bump_with_both_hands_clip1": {
+    "status": "ok",
+    "file": "standing_while_Fist_bump_with_both_hands_clip1.npy",
+    "timing_s": 0.18947970800218172
+  },
+  "standing_while_Hug_1_clip1": {
+    "status": "ok",
+    "file": "standing_while_Hug_1_clip1.npy",
+    "timing_s": 0.21510316599960788
+  },
+  "standing_while_Hug_clip1": {
+    "status": "ok",
+    "file": "standing_while_Hug_clip1.npy",
+    "timing_s": 0.18565195800329093
+  },
+  "standing_while_Laughing_loudly_clip1": {
+    "status": "ok",
+    "file": "standing_while_Laughing_loudly_clip1.npy",
+    "timing_s": 0.19571204100066097
+  },
+  "standing_while_Opening_the_bottle_clip1": {
+    "status": "ok",
+    "file": "standing_while_Opening_the_bottle_clip1.npy",
+    "timing_s": 0.21178341600170825
+  },
+  "standing_while_Punching_or_Slapping_clip1": {
+    "status": "ok",
+    "file": "standing_while_Punching_or_Slapping_clip1.npy",
+    "timing_s": 0.24065595800129813
+  },
+  "standing_while_Putting_on_shoes_clip1": {
+    "status": "ok",
+    "file": "standing_while_Putting_on_shoes_clip1.npy",
+    "timing_s": 0.3434977920005622
+  },
+  "standing_while_Rub_hands_clip1": {
+    "status": "ok",
+    "file": "standing_while_Rub_hands_clip1.npy",
+    "timing_s": 0.2056941660011944
+  },
+  "standing_while_Unscrewing_bottle_caps_clip1": {
+    "status": "ok",
+    "file": "standing_while_Unscrewing_bottle_caps_clip1.npy",
+    "timing_s": 0.2571278750001511
+  },
+  "standing_while_Wear_a_mask_clip1": {
+    "status": "ok",
+    "file": "standing_while_Wear_a_mask_clip1.npy",
+    "timing_s": 0.27863333400091506
+  },
+  "standing_while_hands_behind_your_back_1_clip1": {
+    "status": "ok",
+    "file": "standing_while_hands_behind_your_back_1_clip1.npy",
+    "timing_s": 0.14211745799912023
+  },
+  "standing_while_hands_behind_your_back_2_clip1": {
+    "status": "ok",
+    "file": "standing_while_hands_behind_your_back_2_clip1.npy",
+    "timing_s": 0.18242537500191247
+  },
+  "standing_while_hands_behind_your_back_clip1": {
+    "status": "ok",
+    "file": "standing_while_hands_behind_your_back_clip1.npy",
+    "timing_s": 0.16677124999841908
+  },
+  "walking_and_Cutting_Vegetables_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "walking_and_Cutting_Vegetables_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.27964624999731313
+  },
+  "walking_and_Cutting_Vegetables_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "walking_and_Cutting_Vegetables_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.27670191599827376
+  },
+  "walking_and_Cutting_Vegetables_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Cutting_Vegetables_at_the_same_time_clip1.npy",
+    "timing_s": 0.27502541699868743
+  },
+  "walking_and_Finger_touch_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "walking_and_Finger_touch_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.2578538329980802
+  },
+  "walking_and_Finger_touch_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Finger_touch_at_the_same_time_clip1.npy",
+    "timing_s": 0.2412015000008978
+  },
+  "walking_and_Hand_touching_elbow_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Hand_touching_elbow_at_the_same_time_clip1.npy",
+    "timing_s": 0.22163354200165486
+  },
+  "walking_and_Holding_things_in_your_hands_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Holding_things_in_your_hands_at_the_same_time_clip1.npy",
+    "timing_s": 0.1820967079984257
+  },
+  "walking_and_Kicking_a_football_to_shoot_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "walking_and_Kicking_a_football_to_shoot_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.22280762499940465
+  },
+  "walking_and_Kicking_a_football_to_shoot_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Kicking_a_football_to_shoot_at_the_same_time_clip1.npy",
+    "timing_s": 0.2630221250001341
+  },
+  "walking_and_Listen_to_music_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Listen_to_music_at_the_same_time_clip1.npy",
+    "timing_s": 0.24792258299930836
+  },
+  "walking_and_Number_14_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Number_14_at_the_same_time_clip1.npy",
+    "timing_s": 0.2420960829986143
+  },
+  "walking_and_Raise_your_hand_to_speak_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Raise_your_hand_to_speak_at_the_same_time_clip1.npy",
+    "timing_s": 0.21552012499887496
+  },
+  "walking_and_Rocket_Launch_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Rocket_Launch_at_the_same_time_clip1.npy",
+    "timing_s": 0.2615182500012452
+  },
+  "walking_and_Roll_up_your_sleeves_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Roll_up_your_sleeves_at_the_same_time_clip1.npy",
+    "timing_s": 0.07358687499799998
+  },
+  "walking_and_Rowing_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "walking_and_Rowing_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.21712216599917156
+  },
+  "walking_and_Rowing_at_the_same_time_2_clip1": {
+    "status": "ok",
+    "file": "walking_and_Rowing_at_the_same_time_2_clip1.npy",
+    "timing_s": 0.24667020800188766
+  },
+  "walking_and_Rowing_at_the_same_time_3_clip1": {
+    "status": "ok",
+    "file": "walking_and_Rowing_at_the_same_time_3_clip1.npy",
+    "timing_s": 0.2362655420001829
+  },
+  "walking_and_Rowing_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Rowing_at_the_same_time_clip1.npy",
+    "timing_s": 0.25003870799992
+  },
+  "walking_and_Running_in_place_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Running_in_place_at_the_same_time_clip1.npy",
+    "timing_s": 0.2216984999977285
+  },
+  "walking_and_Thumbs_Up_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_Thumbs_Up_at_the_same_time_clip1.npy",
+    "timing_s": 0.2623180830014462
+  },
+  "walking_and_shrug_at_the_same_time_1_clip1": {
+    "status": "ok",
+    "file": "walking_and_shrug_at_the_same_time_1_clip1.npy",
+    "timing_s": 0.20904349999909755
+  },
+  "walking_and_shrug_at_the_same_time_clip1": {
+    "status": "ok",
+    "file": "walking_and_shrug_at_the_same_time_clip1.npy",
+    "timing_s": 0.20844783400025335
+  },
+  "walking_during_Adjusting_the_music_clip1": {
+    "status": "ok",
+    "file": "walking_during_Adjusting_the_music_clip1.npy",
+    "timing_s": 0.20300712500102236
+  },
+  "walking_during_Bathing_Pets_clip2": {
+    "status": "ok",
+    "file": "walking_during_Bathing_Pets_clip2.npy",
+    "timing_s": 0.21681812499809894
+  },
+  "walking_during_Cooking_rice_clip1": {
+    "status": "ok",
+    "file": "walking_during_Cooking_rice_clip1.npy",
+    "timing_s": 0.2240079160001187
+  },
+  "walking_during_Driving_1_clip1": {
+    "status": "ok",
+    "file": "walking_during_Driving_1_clip1.npy",
+    "timing_s": 0.2512204170016048
+  },
+  "walking_during_Driving_clip1": {
+    "status": "ok",
+    "file": "walking_during_Driving_clip1.npy",
+    "timing_s": 0.22025287500218838
+  },
+  "walking_during_Hand_touches_neck_1_clip1": {
+    "status": "ok",
+    "file": "walking_during_Hand_touches_neck_1_clip1.npy",
+    "timing_s": 0.2293669589998899
+  },
+  "walking_during_Hand_touches_neck_clip1": {
+    "status": "ok",
+    "file": "walking_during_Hand_touches_neck_clip1.npy",
+    "timing_s": 0.2418223750028119
+  },
+  "walking_during_Kicking_clip1": {
+    "status": "ok",
+    "file": "walking_during_Kicking_clip1.npy",
+    "timing_s": 0.32092562500110944
+  },
+  "walking_during_Nausea_or_vomiting_clip1": {
+    "status": "ok",
+    "file": "walking_during_Nausea_or_vomiting_clip1.npy",
+    "timing_s": 0.2908064170005673
+  },
+  "walking_during_On_all_fours_clip1": {
+    "status": "ok",
+    "file": "walking_during_On_all_fours_clip1.npy",
+    "timing_s": 0.1536747079990164
+  },
+  "walking_during_Press_your_fingers_1_clip1": {
+    "status": "ok",
+    "file": "walking_during_Press_your_fingers_1_clip1.npy",
+    "timing_s": 0.28608045800137916
+  },
+  "walking_during_Press_your_fingers_2_clip1": {
+    "status": "ok",
+    "file": "walking_during_Press_your_fingers_2_clip1.npy",
+    "timing_s": 0.05776220799816656
+  },
+  "walking_during_Press_your_fingers_2_clip2": {
+    "status": "ok",
+    "file": "walking_during_Press_your_fingers_2_clip2.npy",
+    "timing_s": 0.22882466599912732
+  },
+  "walking_during_Press_your_fingers_clip1": {
+    "status": "ok",
+    "file": "walking_during_Press_your_fingers_clip1.npy",
+    "timing_s": 0.20965287500075647
+  },
+  "walking_during_Removing_the_hat_1_clip1": {
+    "status": "ok",
+    "file": "walking_during_Removing_the_hat_1_clip1.npy",
+    "timing_s": 0.32274137499916833
+  },
+  "walking_during_Removing_the_hat_clip1": {
+    "status": "ok",
+    "file": "walking_during_Removing_the_hat_clip1.npy",
+    "timing_s": 0.156801875000383
+  },
+  "walking_during_Scrub_with_a_brush_clip1": {
+    "status": "ok",
+    "file": "walking_during_Scrub_with_a_brush_clip1.npy",
+    "timing_s": 0.24556795800162945
+  },
+  "walking_during_Shaking_Hands_clip1": {
+    "status": "ok",
+    "file": "walking_during_Shaking_Hands_clip1.npy",
+    "timing_s": 0.2150606670002162
+  },
+  "walking_during_Sit_down_1_clip2": {
+    "status": "ok",
+    "file": "walking_during_Sit_down_1_clip2.npy",
+    "timing_s": 0.07780537500002538
+  },
+  "walking_during_Sit_down_clip1": {
+    "status": "ok",
+    "file": "walking_during_Sit_down_clip1.npy",
+    "timing_s": 0.17518320799717912
+  },
+  "walking_during_Swapping_Seats_clip1": {
+    "status": "ok",
+    "file": "walking_during_Swapping_Seats_clip1.npy",
+    "timing_s": 0.2341121249992284
+  },
+  "walking_during_Victory_dunk._1_clip1": {
+    "status": "ok",
+    "file": "walking_during_Victory_dunk._1_clip1.npy",
+    "timing_s": 0.11116383400076302
+  },
+  "walking_during_Victory_dunk._1_clip2": {
+    "status": "ok",
+    "file": "walking_during_Victory_dunk._1_clip2.npy",
+    "timing_s": 0.18055391600137227
+  },
+  "walking_during_Victory_dunk._clip1": {
+    "status": "ok",
+    "file": "walking_during_Victory_dunk._clip1.npy",
+    "timing_s": 0.26040808399920934
+  },
+  "walking_during_Voting_1_clip1": {
+    "status": "ok",
+    "file": "walking_during_Voting_1_clip1.npy",
+    "timing_s": 0.2724424580010236
+  },
+  "walking_during_Voting_clip1": {
+    "status": "ok",
+    "file": "walking_during_Voting_clip1.npy",
+    "timing_s": 0.2540760419979051
+  },
+  "walking_while_Amusement_Park_Roller_Coaster_clip1": {
+    "status": "ok",
+    "file": "walking_while_Amusement_Park_Roller_Coaster_clip1.npy",
+    "timing_s": 0.2502414580012555
+  },
+  "walking_while_Buying_Tickets_1_clip1": {
+    "status": "ok",
+    "file": "walking_while_Buying_Tickets_1_clip1.npy",
+    "timing_s": 0.2609044169985282
+  },
+  "walking_while_Buying_Tickets_clip1": {
+    "status": "ok",
+    "file": "walking_while_Buying_Tickets_clip1.npy",
+    "timing_s": 0.304651250000461
+  },
+  "walking_while_Cutting_hair_clip1": {
+    "status": "ok",
+    "file": "walking_while_Cutting_hair_clip1.npy",
+    "timing_s": 0.23224354199919617
+  },
+  "walking_while_Hand_touches_neck_1_clip1": {
+    "status": "ok",
+    "file": "walking_while_Hand_touches_neck_1_clip1.npy",
+    "timing_s": 0.3241908340023656
+  },
+  "walking_while_Hand_touches_neck_clip1": {
+    "status": "ok",
+    "file": "walking_while_Hand_touches_neck_clip1.npy",
+    "timing_s": 0.27622737500132644
+  },
+  "walking_while_Hold_with_both_hands_clip1": {
+    "status": "ok",
+    "file": "walking_while_Hold_with_both_hands_clip1.npy",
+    "timing_s": 0.2944417910002812
+  },
+  "walking_while_Painting_Walls_clip1": {
+    "status": "ok",
+    "file": "walking_while_Painting_Walls_clip1.npy",
+    "timing_s": 0.2638510420001694
+  },
+  "walking_while_Play_ball_with_both_hands_clip1": {
+    "status": "ok",
+    "file": "walking_while_Play_ball_with_both_hands_clip1.npy",
+    "timing_s": 0.2659832919998735
+  },
+  "walking_while_Running_in_place_1_clip1": {
+    "status": "ok",
+    "file": "walking_while_Running_in_place_1_clip1.npy",
+    "timing_s": 0.269307624999783
+  },
+  "walking_while_Running_in_place_2_clip1": {
+    "status": "ok",
+    "file": "walking_while_Running_in_place_2_clip1.npy",
+    "timing_s": 0.2198767920017417
+  },
+  "walking_while_Running_in_place_clip1": {
+    "status": "ok",
+    "file": "walking_while_Running_in_place_clip1.npy",
+    "timing_s": 0.3262334999999439
+  },
+  "walking_while_Tear_paper_clip1": {
+    "status": "ok",
+    "file": "walking_while_Tear_paper_clip1.npy",
+    "timing_s": 0.24743462500191526
+  },
+  "walking_while_Wrist_wrap_clip1": {
+    "status": "ok",
+    "file": "walking_while_Wrist_wrap_clip1.npy",
+    "timing_s": 0.2716687499996624
   }
 }

@@ -1,0 +1,20 @@
+{
+  "checkpoint": "epoch_0019",
+  "checkpoint_path": "/Users/maksimpecin/Library/CloudStorage/OneDrive-\u041b\u0438\u0447\u043d\u0430\u044f/Thesis/code/checkpoints/epoch_0019.pt",
+  "epoch": 19,
+  "split": "val",
+  "dataset_index": 345,
+  "sequence_id": "Simultaneously_walking_and_Spoon_in_hand_1_clip1",
+  "sequence_dir": "/Users/maksimpecin/Downloads/code/motionx_activations_extended/motion_generation/smplx_322/idea400/Simultaneously_walking_and_Spoon_in_hand_1_clip1",
+  "window_start": 0,
+  "true_T": 184,
+  "prompt": "simultaneously walking and spoon in hand",
+  "dataset_text": "simultaneously walking and spoon in hand",
+  "mae": 0.018742693588137627,
+  "rmse": 0.03040989860892296,
+  "joint_displacement": 0.01210334524512291,
+  "pred_activations_npy": "/Users/maksimpecin/Library/CloudStorage/OneDrive-\u041b\u0438\u0447\u043d\u0430\u044f/Thesis/code/musclemap-bench/results/best_val_example/pred_activations.npy",
+  "true_activations_npy": "/Users/maksimpecin/Library/CloudStorage/OneDrive-\u041b\u0438\u0447\u043d\u0430\u044f/Thesis/code/musclemap-bench/results/best_val_example/true_activations.npy",
+  "visualization_png": "/Users/maksimpecin/Library/CloudStorage/OneDrive-\u041b\u0438\u0447\u043d\u0430\u044f/Thesis/code/musclemap-bench/results/plots/best_val_example.png",
+  "body_visualization_png": "/Users/maksimpecin/Library/CloudStorage/OneDrive-\u041b\u0438\u0447\u043d\u0430\u044f/Thesis/code/musclemap-bench/results/plots/best_val_example_body.png"
+}

@@ -141,20 +141,26 @@ def run_musclemap(
     model.eval()
     _ensure_teacher_forced_backbone(model)
 
+    forward_kwargs: dict[str, Any] = {
+        "text_tokens": [text],
+        "motion_tokens": None,
+    }
+    if ref_T is not None and ref_T > 0:
+        forward_kwargs["T_frame"] = int(ref_T)
+
     t0 = time.perf_counter()
     with torch.no_grad():
         with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
-            logits, pred_log_T, motion_output = model(
-                text_tokens=[text],
-                motion_tokens=None,
-            )
+            logits, pred_log_T, motion_output = model(**forward_kwargs)
     t1 = time.perf_counter()
 
     probs = torch.sigmoid(logits)[0].detach().cpu().numpy().astype(np.float32, copy=False)
-    pred_t = _predicted_length(logits, pred_log_T, getattr(model, "config", None))
-    probs = probs[:pred_t]
     if ref_T is not None and ref_T > 0:
-        probs = probs[: min(probs.shape[0], int(ref_T))]
+        # Ground-truth length is known at benchmark/eval time; do not truncate via length predictor.
+        pred_t = min(probs.shape[0], int(ref_T))
+    else:
+        pred_t = _predicted_length(logits, pred_log_T, getattr(model, "config", None))
+    probs = probs[:pred_t]
 
     motion_np = _motion_from_output(motion_output)
     if motion_np is not None and ref_T is not None and ref_T > 0:

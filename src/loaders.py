@@ -172,14 +172,14 @@ def get_benchmark_sample(dataset: Any, index: int) -> BenchmarkSample:
 
 def _inject_repo(repo_path: str | Path) -> None:
     """Prepend a sibling repo to sys.path for imports."""
-    p = str(Path(repo_path).resolve())
+    p = str(_resolve_path(repo_path))
     if p not in sys.path:
         sys.path.insert(0, p)
 
 
 def _import_from_model_repo(repo_path: str | Path, import_stmt: str) -> Any:
     """Import from musclemap-model without shadowing by this bench's ``src`` package."""
-    repo = str(Path(repo_path).resolve())
+    repo = str(_resolve_path(repo_path))
     bench_root = str(_bench_root())
     saved_modules = {
         key: sys.modules[key]
@@ -251,11 +251,18 @@ def load_motiongpt_backbone(cfg: dict[str, Any], device: str = "cpu") -> Any:
     return backbone
 
 
-def load_musclemap(cfg: dict[str, Any], device: str = "cpu"):
+def load_musclemap(
+    cfg: dict[str, Any],
+    device: str = "cpu",
+    *,
+    checkpoint_path: str | Path | None = None,
+):
     """Load the MuscleMAP model and checkpoint."""
-    checkpoint_path = _resolve_path(cfg["paths"]["musclemap_checkpoint"])
-    if not checkpoint_path.exists():
-        raise FileNotFoundError(f"MuscleMAP checkpoint not found: {checkpoint_path}")
+    ckpt = _resolve_path(checkpoint_path) if checkpoint_path is not None else _resolve_path(
+        cfg["paths"]["musclemap_checkpoint"]
+    )
+    if not ckpt.exists():
+        raise FileNotFoundError(f"MuscleMAP checkpoint not found: {ckpt}")
 
     if "bert_score" not in sys.modules:
         import torch
@@ -272,7 +279,7 @@ def load_musclemap(cfg: dict[str, Any], device: str = "cpu"):
     )
     backbone = load_motiongpt(model_train_cfg)
     model = MuscleMAPModel(backbone=backbone, config=model_train_cfg)
-    state = torch.load(str(checkpoint_path), map_location="cpu", weights_only=False)
+    state = torch.load(str(ckpt), map_location="cpu", weights_only=False)
     sd = state.get("model", state)
     model.load_state_dict(sd, strict=False)
     model.to(device)
